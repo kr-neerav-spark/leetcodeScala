@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 class p2 {
   // before calculating the next number check if its within the range

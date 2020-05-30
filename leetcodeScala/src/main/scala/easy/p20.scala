@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 import scala.collection.mutable.Stack 
 

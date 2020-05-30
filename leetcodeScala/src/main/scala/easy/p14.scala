@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 class p14 {
   //use the function that finds longest common prefix to calculate the longest common

@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 import org.scalatest._
 

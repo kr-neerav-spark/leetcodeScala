@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 class p13 {
   //Map to lookup the value of the roman literal.

@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 class p1 {
   def twoSum(nums: Array[Int], target:Int): Array[Int] = {

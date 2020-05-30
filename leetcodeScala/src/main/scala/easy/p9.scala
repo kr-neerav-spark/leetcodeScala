@@ -1,4 +1,4 @@
-package main.scala
+package main.scala.easy
 
 class p9 {
   def isPalindrome(x: Int): Boolean = {
